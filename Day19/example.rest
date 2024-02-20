@@ -1,0 +1,10 @@
+# GET http://localhost:8080/users
+
+
+POST http://localhost:8080/users/addValidatedUser
+Content-Type: application/json
+
+{
+  "username": "scaler",
+  "email": "valid_scaler_mail@gmail.com"
+}
