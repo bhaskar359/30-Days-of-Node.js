@@ -1,0 +1,13 @@
+# GET http://localhost:8080/users
+
+
+# POST http://localhost:8080/users/addValidatedUser
+# Content-Type: application/json
+
+# {
+#   "username": "bhaskar",
+#   "email": "bhaskar@gmail.com",
+#   "age": 25
+# }
+
+GET http://localhost:8080/users/average-age
