@@ -1,5 +1,7 @@
 # 30 Days of Node.js
 
+[https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/062/988/original/LP.webp?1705989181]
+
 Do you want to cultivate a habit of coding in Node.js? Then we have the perfect solution for you: 30 days of Node.js Challenge.
 
 Build coding habits for skill development. Completion rewards you with Node.js proficiency. 
